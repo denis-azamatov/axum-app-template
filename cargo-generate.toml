@@ -1,0 +1,3 @@
+[placeholders.database_name]
+type = "string"
+prompt = "Database name"

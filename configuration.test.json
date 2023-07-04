@@ -1,0 +1,10 @@
+{
+    "application_port": 9000,
+    "database": {
+        "host": "localhost",
+        "port": 9001,
+        "username": "postgres",
+        "password": "123456",
+        "name": "{{database_name}}"
+    }
+}
